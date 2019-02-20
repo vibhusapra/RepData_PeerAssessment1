@@ -1,3 +1,6 @@
+#Reproducable Research: Course Project 1#
+##Vibhu Sapra##
+
 ```{r, echo = TRUE}
 library(data.table)
 library(ggplot2)
